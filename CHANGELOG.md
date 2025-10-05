@@ -4,4 +4,4 @@ All notable changes to this project will be documented in this file.
 
 ## 1.0.0
 ### Changes
-- Initial Commit with signed key
+- Initial Commit with signed key.
